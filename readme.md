@@ -3,8 +3,8 @@
 TO identify the quality of image and classifing if the image is a good quality image or bad quality image
 
 
-![alt text](https://github.com/shivampradhan/Image-Quality-Assessment/blob/main/test_images/1267_in3.png)
-![alt text](https://github.com/shivampradhan/Image-Quality-Assessment/blob/main/test_images/2578.png)
+![alt text](https://github.com/shivampradhan/Image-Quality-Assessment/blob/master/test_images/1267_in3.png)
+![alt text](https://github.com/shivampradhan/Image-Quality-Assessment/blob/master/test_images/1332.png)
 
 
 # Approach 
